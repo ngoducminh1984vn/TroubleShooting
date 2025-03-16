@@ -654,7 +654,6 @@ Khi gặp các vấn đề về bong tróc và tách lớp, điều quan trọng
 Hy vọng những phân tích chi tiết này sẽ giúp bạn hiểu rõ hơn về hiện tượng màng sơn bị bong tróc và tách lớp, từ đó có những biện pháp phòng ngừa và xử lý hiệu quả trong quá trình sản xuất và thi công sơn gỗ nội ngoại thất. Nếu có bất kỳ câu hỏi nào khác, đừng ngần ngại hỏi nhé!
 
 
-
 Hiện tượng sơn bị lau ra màu,
  hay còn gọi là tình trạng màu sắc dính ra khi lau chùi hoặc trong quá trình sử dụng (ví dụ như ngồi lên mặt ghế), thường xuất phát từ một lỗi trong quá trình sản xuất. Cụ thể, khi màu sắc của lớp sơn nền không đồng đều, nhà máy có thể sử dụng một lớp "stand màu" để dặm lại, mục đích là làm cho bề mặt sản phẩm có màu sắc đồng nhất. Lớp stand màu này thực chất là một lớp màu phủ lên trên bề mặt sơn nền để điều chỉnh lại tông màu.
 Vấn đề nằm ở chỗ, thông thường sau khi dặm lớp stain màu, cần phải phủ một lớp sơn bóng (topcoat) lên trên để bảo vệ và cố định lớp màu này. Lớp sơn bóng đóng vai trò như một lớp màng chắn, ngăn không cho lớp stand màu tiếp xúc trực tiếp với các tác động bên ngoài như lau chùi, cọ xát. Tuy nhiên, theo nguồn, có thể trong quá trình sản xuất, công đoạn này đã bị bỏ quên hoặc thực hiện không đúng cách. Hậu quả là lớp stand màu nằm trực tiếp trên bề mặt, không có lớp sơn bảo vệ, dẫn đến tình trạng dễ dàng bị lau trôi khi sử dụng.
